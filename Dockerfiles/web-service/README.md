@@ -18,9 +18,9 @@ These are the only official Zabbix web service Docker images. They are based on 
 
     Zabbix web service 6.0 (tags: alpine-6.0-latest, ubuntu-6.0-latest, ol-6.0-latest)
     Zabbix web service 6.0.* (tags: alpine-6.0.*, ubuntu-6.0.*, ol-6.0.*)
-    Zabbix web service 6.2 (tags: alpine-6.2-latest, ubuntu-6.2-latest, ol-6.2-latest, alpine-latest, ubuntu-latest, ol-latest, latest)
+    Zabbix web service 6.2 (tags: alpine-6.2-latest, ubuntu-6.2-latest, ol-6.2-latest, alpine-latestt, ubuntu-latestt, ol-latest, latest)
     Zabbix web service 6.2.* (tags: alpine-6.2.*, ubuntu-6.2.*, ol-6.2.*)
-    Zabbix web service 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latest, ubuntu-latest, ol-latest, latest)
+    Zabbix web service 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latestt, ubuntu-latestt, ol-latest, latest)
     Zabbix web service 6.4.* (tags: alpine-6.4.*, ubuntu-6.4.*, ol-6.4.*)
     Zabbix web service 7.0 (tags: alpine-trunk, ubuntu-trunk, ol-trunk)
 

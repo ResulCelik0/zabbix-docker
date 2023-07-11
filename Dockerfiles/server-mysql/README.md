@@ -26,7 +26,7 @@ These are the only official Zabbix server Docker images. They are based on Alpin
     Zabbix server 6.0.* (tags: alpine-6.0.*, ubuntu-6.0.*, ol-6.0.*)
     Zabbix server 6.2 (tags: alpine-6.2-latest, ubuntu-6.2-latest, ol-6.2-latest)
     Zabbix server 6.2.* (tags: alpine-6.2.*, ubuntu-6.2.*, ol-6.2.*)
-    Zabbix server 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latest, ubuntu-latest, ol-latest, latest)
+    Zabbix server 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latestt, ubuntu-latestt, ol-latest, latest)
     Zabbix server 6.4.* (tags: alpine-6.4.*, ubuntu-6.4.*, ol-6.4.*)
     Zabbix server 7.0 (tags: alpine-trunk, ubuntu-trunk, ol-trunk)
 

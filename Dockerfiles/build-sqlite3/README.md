@@ -24,7 +24,7 @@ These are the only official Zabbix build base (SQLite3) Docker images. They are 
     Zabbix build base 6.0.* (tags: alpine-6.0.*, ubuntu-6.0.*, ol-6.0.*)
     Zabbix build base 6.2 (tags: alpine-6.2-latest, ubuntu-6.2-latest, ol-6.2-latest)
     Zabbix build base 6.2.* (tags: alpine-6.2.*, ubuntu-6.2.*, ol-6.2.*)
-    Zabbix build base 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latest, ubuntu-latest, ol-latest, latest)
+    Zabbix build base 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latestt, ubuntu-latestt, ol-latest, latest)
     Zabbix build base 6.4.* (tags: alpine-6.4.*, ubuntu-6.4.*, ol-6.4.*)
     Zabbix build base 7.0 (tags: alpine-trunk, ubuntu-trunk, ol-trunk)
 

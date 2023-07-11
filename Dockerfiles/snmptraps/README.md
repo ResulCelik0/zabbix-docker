@@ -24,7 +24,7 @@ These are the only official Zabbix snmptraps Docker images. They are based on Al
     Zabbix snmptraps 6.0.* (tags: alpine-6.0.*, ubuntu-6.0.*, ol-6.0.*)
     Zabbix snmptraps 6.2 (tags: alpine-6.2-latest, ubuntu-6.2-latest, ol-6.2-latest)
     Zabbix snmptraps 6.2.* (tags: alpine-6.2.*, ubuntu-6.2.*, ol-6.2.*)
-    Zabbix snmptraps 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latest, ubuntu-latest, ol-latest, latest)
+    Zabbix snmptraps 6.4 (tags: alpine-6.4-latest, ubuntu-6.4-latest, ol-6.4-latest, alpine-latestt, ubuntu-latestt, ol-latest, latest)
     Zabbix snmptraps 6.4.* (tags: alpine-6.4.*, ubuntu-6.4.*, ol-6.4.*)
     Zabbix snmptraps 7.0 (tags: alpine-trunk, ubuntu-trunk, ol-trunk)
 
